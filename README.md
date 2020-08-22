@@ -4,7 +4,6 @@
 
 [heroku link](https://fierce-island-96798.herokuapp.com/store)
 
-![Demo](https://gfycat.com/tighthandmadeincatern.gif)
 
 
 ## Project setup
